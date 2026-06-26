@@ -89,3 +89,16 @@ Deploying vision-language infrastructure into scalable business environments int
 | [**Real-Time Autonomous Robotic Control & Grounding**](./details/real_time_autonomous_robotic_control.md) | *Application:* Drives manipulation and navigation loops. VLMs convert natural language human commands (e.g., `"Grab the cleaning solution from the third shelf"`) into explicit 2D coordinate bounding boxes or physical motor action trajectories. | 2022 | [RT-1 (Brohan et al., 2022)](https://arxiv.org/abs/2212.06817) |
 | [**Omni-Channel Intelligent Video Surveillance Analytics**](./details/omnichannel_intelligent_video_surveillance.md) | *Application:* Monitors security cameras or vehicle dashcam feeds continuously. Spatio-temporal VLMs analyze continuous frames, generating natural language situational summaries or flagging security hazards (such as industrial safety violations) automatically. | 2019 | [VideoBERT (Sun et al., 2019)](https://arxiv.org/abs/1904.01766) |
 
+---
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Vision-Language-Models&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vision-Language-Models&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vision-Language-Models&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vision-Language-Models&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+

@@ -1,11 +1,30 @@
-# Awesome-Vision-Language-Models
-## Vision-Language Models (VLMs): Evolution, Variants, Types, & Applications
+# 🌌 Awesome Vision-Language Models 🚀
 
-Vision-Language Models (VLMs) represent a cornerstone of multimodal artificial intelligence, bridging the gap between computer vision and natural language processing. Instead of treating text and images as isolated signals, VLMs operate on a shared semantic workspace, enabling machines to describe visual scenes, locate objects via textual commands, and execute complex reasoning over charts, documents, and video feeds.
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Vision-Language Models Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Vision-Language-Models?style=flat-square" alt="Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Vision-Language-Models/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Vision-Language-Models?style=flat-square" alt="Forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
-## 1. The Chronological Evolution
+## 📖 Vision-Language Models (VLMs): Evolution, Variants, Types, & Applications
+
+> [!NOTE]
+> Vision-Language Models (VLMs) represent a cornerstone of multimodal artificial intelligence, bridging the gap between computer vision and natural language processing. Instead of treating text and images as isolated signals, VLMs operate on a shared semantic workspace, enabling machines to describe visual scenes, locate objects via textual commands, and execute complex reasoning over charts, documents, and video feeds.
+
+### 🔍 Table of Contents
+- [1. The Chronological Evolution ⏳](#1-the-chronological-evolution-)
+- [2. Core Functional & Architectural Variants 🏗️](#2-core-functional--architectural-variants-️)
+- [3. Image Tokenization & Processing Modalities 📷](#3-image-tokenization--processing-modalities-)
+- [4. Production Engineering Challenges & Mitigations ⚙️](#4-production-engineering-challenges--mitigations-️)
+- [5. Frontier Real-World Applications 🌟](#5-frontier-real-world-applications-)
+
+---
+
+## 1. The Chronological Evolution ⏳
 
 The architectural progression of vision-language processing reflects a shift from detached, hand-crafted feature fusion to unified, single-tower transformers that ingest raw pixels alongside text characters natively.
 
@@ -27,7 +46,7 @@ flowchart LR
 
 ---
 
-## 2. Core Functional & Architectural Variants
+## 2. Core Functional & Architectural Variants 🏗️
 
 Vision-Language Models are categorized based on their underlying token processing layouts and directional execution properties.
 
@@ -39,7 +58,7 @@ Vision-Language Models are categorized based on their underlying token processin
 
 ---
 
-## 3. Image Tokenization & Processing Modalities
+## 3. Image Tokenization & Processing Modalities 📷
 
 Depending on how raw visual data is converted into tokens for the neural network, VLMs exploit distinct structural front-ends.
 
@@ -51,7 +70,7 @@ Depending on how raw visual data is converted into tokens for the neural network
 
 ---
 
-## 4. Production Engineering Challenges & Mitigations
+## 4. Production Engineering Challenges & Mitigations ⚙️
 
 Deploying vision-language infrastructure into scalable business environments introduces severe computing and token management penalties.
 
@@ -62,7 +81,7 @@ Deploying vision-language infrastructure into scalable business environments int
 
 ---
 
-## 5. Frontier Real-World Applications
+## 5. Frontier Real-World Applications 🌟
 
 | Frontier Application | Application Details | First Used (Year) | Key Paper |
 | :--- | :--- | :--- | :--- |

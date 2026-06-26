@@ -9,8 +9,13 @@ Vision-Language Models (VLMs) represent a cornerstone of multimodal artificial i
 
 The architectural progression of vision-language processing reflects a shift from detached, hand-crafted feature fusion to unified, single-tower transformers that ingest raw pixels alongside text characters natively.
 
-[Dual-Tower Contrastive (CLIP, 2021)] ----> [Cross-Attention Injection (Flamingo/BLIP)] ----> [Native Unified Autoregressive (GPT-4o/Reka)](Embedding Space Alignment)                  (Linear Projection Interleaving)                 (Unified Interleaved Tokenization)
 
+```mermaid
+flowchart LR
+    A["Dual-Tower Contrastive (CLIP, 2021)<br/>(Embedding Space Alignment)"]
+    --> B["Cross-Attention Injection (Flamingo/BLIP)<br/>(Linear Projection Interleaving)"]
+    --> C["Native Unified Autoregressive (GPT-4o/Reka)<br/>(Unified Interleaved Tokenization)"]
+```
 
 
 
